@@ -1,6 +1,6 @@
 # Raven-SmartBackPack
 
-git hub readme 
+
 
 
 <p align="center">
